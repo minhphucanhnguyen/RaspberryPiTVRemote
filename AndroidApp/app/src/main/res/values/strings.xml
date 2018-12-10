@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BTL</string>
+
+
+    <string-array name="planets">
+        <item>Toshiba</item>
+        <item>Samsung</item>
+        <item>LG</item>
+    </string-array>
+
+    <string-array name="planets2">
+        <item>CT-90048</item>
+        <item>BN59-01005A</item>
+    </string-array>
+</resources>
+
+
