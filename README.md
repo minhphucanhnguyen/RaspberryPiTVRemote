@@ -1,5 +1,15 @@
 # Raspberry Pi TV Remote
 
+## Authors
+
+Nguyen Minh Phuc Anh - 1510068
+
+Nguyen Cong Huong - 1511434
+
+Pham Thi Ngoc My - 1512049
+
+Nguyen Quang Thien Tri - 1513668
+
 ## Getting Started 
 In this project, Raspberry Pi will be used to connect to Firebase and control the IR LED as just like what a TV Remote does. An Android app is built to help control the remote that requires Internet connection to operate.
 
