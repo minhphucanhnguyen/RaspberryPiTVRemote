@@ -33,7 +33,7 @@ Connect Raspberry Pi to the Internet, open the terminal and get to the directory
 sudo python RaspberryRemoteIR.py
 ```
 
-Launch Android app included in the project. On the top of the screen is the section to choose TV brand and particular TV remote model. 
+Install and launch Android app included in the project as named RaspberryPiTVRemote.apk. On the top of the screen is the section to choose TV brand and particular TV remote model. 
 
 The app is also supported with controlling by voice, just press the button with micro symbol and give command like "Turn on TV" or "Turn off TV" for controlling.
 
